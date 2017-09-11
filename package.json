@@ -1,0 +1,26 @@
+{
+  "name": "panning-orbit-controls",
+  "version": "1.0.0",
+  "description": "Modified OrbitControls for THREE.js to include relevant values for user panning",
+  "main": "dist/panning-orbit-controls.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevengeeky/panning-orbit-controls.git"
+  },
+  "keywords": [
+    "three.js",
+    "panning",
+    "orbit",
+    "controls",
+    "OrbitControls"
+  ],
+  "author": "stevengeeky",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/stevengeeky/panning-orbit-controls/issues"
+  },
+  "homepage": "https://github.com/stevengeeky/panning-orbit-controls#readme"
+}
