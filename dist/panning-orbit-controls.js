@@ -92,7 +92,15 @@ THREE.OrbitControls = function ( object, domElement ) {
         
         return pubPanOffset;
         
-    };
+		};
+		
+		this.setPubPanOffset = function (x, y, z) {
+      
+			pubPanOffset.x = x;
+			pubPanOffset.y = y;
+			pubPanOffset.z = z;
+			
+	};
     
 	this.getPolarAngle = function () {
 
